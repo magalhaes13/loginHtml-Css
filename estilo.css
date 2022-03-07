@@ -107,7 +107,7 @@ h1 {
 .login input[type="submit"]:hover {
     cursor: pointer;
     color: white;
-    background-color: #18066b85;
+    background-color: #c2090985;
     transition: 0.2s;
     margin-top: -2px;
 }
